@@ -14,6 +14,7 @@ module.exports = {
     // !! WARN !!
     ignoreBuildErrors: true,
   },
+  //TODO update appCallbackUrl
   publicRuntimeConfig: {
     environment: process.env.ENV_NAME,
     bigcommerce: {
